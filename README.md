@@ -1,4 +1,5 @@
-Author-Chaitrali Naidu
+
+<h1>Author-Chaitrali Naidu<h1>
 
 # Getting Started with Create React App
 
